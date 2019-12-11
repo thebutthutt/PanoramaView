@@ -49,7 +49,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   end: {fileID: 0}
   cameraContainer: {fileID: 0}
-  endLocation: 2
+  endLocation: 0
   control: {fileID: 0}
 --- !u!65 &6884829135932043386
 BoxCollider:
